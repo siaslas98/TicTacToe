@@ -1,0 +1,5 @@
+"/Applications/Downloaded Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -S /Users/siaslas/TicTacToe -B /Users/siaslas/TicTacToe/cmake-build-debug
+-- Found SFML 2.6.1 in /opt/homebrew/lib/cmake/SFML
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/siaslas/TicTacToe/cmake-build-debug
