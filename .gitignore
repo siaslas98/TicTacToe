@@ -1,0 +1,24 @@
+# Ignore all files in the .idea/ directory (IDE configuration)
+.idea/
+
+# Ignore compiled output
+*.o
+*.out
+*.a
+*.so
+*.exe
+*.dll
+
+# Ignore temporary files created by the editor
+*~
+*.swp
+.DS_Store
+
+# Ignore build directories
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+
+# Ignore logs and temp files
+*.log
+*.tmp
